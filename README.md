@@ -16,12 +16,14 @@ This is a simple Todo List application built with React.
    ```bash
    git clone https://github.com/your-username/todo-app.git
 Install dependencies:
-```bash  
-npm install
+
+   ```bash
+   npm install
 
 Run the application:
-```bash
-npm start
+
+   ```bash
+   npm start
 
 API
 This app uses a mock API to manage todos.
